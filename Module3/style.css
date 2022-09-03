@@ -6,7 +6,7 @@
 .navbar{
 
 border: none;
-background-color: black;
+background-color: 800020;
 color: white;
 }
 body{
@@ -20,12 +20,12 @@ body{
 
 .center{
   width: 90%;
-  background-color: grey;
+  background-color: b88490;
 
 }
 .container
 {
-  background-color: grey;
+  background-color: b88490;
 }
 .text-center{
   font-size: 30px;
